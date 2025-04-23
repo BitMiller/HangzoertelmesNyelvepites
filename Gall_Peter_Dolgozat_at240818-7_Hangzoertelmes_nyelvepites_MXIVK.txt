@@ -1,0 +1,350 @@
+
+<*** Hangzóértelmes nyelvépítés ***>
+
+
+< Történelem - múltbéli távlatok >
+
+Mintegy 150 évvel ezelőtt Czuczor Gergely és Fogarasi János munkásságának köszönhetően megszületett "A magyar nyelv szótára", mely addig példátlan mennyiségű szót gyűjtött össze, példátlan igényességgel rendszerezve, elemezve. A kor szellemét a nyelvújítási törekvés is jellemezte, ami a magyar nyelvi szellem és a nemzet öntudatra ébredése.
+
+Ekkorra a nyugati nyelvészet már besorolt minket a maga gondolkodásmódja szerint, és a hatalmi egyensúly miatt nálunk is az vált uralkodóvá, megszületvén a "finnugrizmus", mely több helyen is elkerüli a valóságot.
+
+A magyar nyelvújítás lendülete megszelídült, a magyar nyelvi gyökerekig lehatoló elmélkedés nyugati mintát követve a felszínre szorult, a Czuczor és Fogarasi nevével jelezhető gondolkodási irány elhalványult.
+
+
+
+< Jelen - kincseink és lehetőségeink >
+
+Czuczor-Fogarasi munkássága már az ő korukból megőrizte számunkra azt a gondolatot, hogy a hangzókhoz (beszédhangokhoz) önálló jelentést társítsunk, vagy a másik irányból közelítve: hogy a hangzók önálló jelentéssel bírjanak. Ők ezt a jelenséget hangérteménynek nevezték - és őutánuk sokan a mai napig így tesznek. Én, mivel régen még őket nem ismertem, tőlük függetlenül hangzóértelemnek neveztem, nevezem ugyanezt. Hangzóértelem, a hangzók értelme - de áthallással az értelem hangzása is benne van e kifejezésben.
+
+Miután Bolya István és Panni baráti társaságában, a Bolyafészekben előadtam nyelvi modellemet, kiderült ama tevékeny szellemi közösségben, hogy messze nem vagyok egyedül meglátásommal. Mitöbb, ha nem lenne egy-egy összetartó, hívogató fészek, ahol az emberek találkozhatnak, meg sem tudnánk, milyen sokan is vagyunk. A Szeibert András és Varga András által szervezett "Ősi örökségünk" alkalomsorozat előadói és látogatói között is akadnak hasonlóan gondolkodók. Ezeket az embereket Záhonyi András a vele együtt 8 tagot számláló "Ősnyelvkör" nevű társaságban fogta össze, melynek az volt a haszna, hogy jobban megismerhettük egymást és gondolkodásunkat. Bérczi Szaniszló, Fabó László, Raig Mária, Rátki Zoltán, Szili Imre, Varga András és én egymástól, de más írott anyagtól is függetlenül, saját nyelvi érzetünkkel összefonódott gondolkodásunkkal jutottunk el a hangzók értelmi szintjéig - míg egyikünk sem "hivatásos" nyelvész. És tudom, hogy jelenleg is élnek még többen ilyen eredményekkel.
+
+
+
+< A hangzóértelem, mint a nyelvépítés csodás módja >
+
+Világosan látszik tehát, hogy nyelvünk hangzóinak ősi időkből ránk maradt önálló értelme van. Ezt az is bizonyítja, hogy egymástól független elmék ugyanerre a következtetésre jutnak - még ha nem is ugyanabban a rendszerben gondolkodnak. Azonban, ha valaki mégis vitatná a hangzóértelem létét, attól még nem lehet kizárni a lehetőségét annak, hogy egy ilyen rendszert létrehozzunk.
+
+Mellesleg némely más népeknél/kultúráknál is megjelenik a hangzók/betűjelek/fonémák szintjéhez társított jelentés. Sőt, a thai írás betűinek érdekes formái is mögöttes tartalomról árulkodnak.
+
+Sok, nagy alkotóerejű ember ötölt már ki nyelveket komoly céllal, mint az eszperantót létrehozó Ludwik Lejzer Zamenhof, vagy akár pusztán szellemi gyönyörből, mint a híressé vált író, J. R. R. Tolkien, aki munkássága során tucatnyi nyelvet és írásjelkészletet talált ki. Sőt, talán a latin is egy mesterséges nyelv (amint számomra a nevéből is következik), mely egy birodalom felépítésére és összetartására lehetett létrehozva.
+
+A nyelvalkotó tevékenység a mai napig folyik. A világhálón könnyen találhatók olyan mozgóképek, melyek szemléletesen végigvezetnek a semmiből egy új nyelv teremtésén, a hangzóktól kezdve a szókincsen át a nyelvtani szabályokig. Nem tudom, van-e olyan a szerzők között, aki a hangzóértelem mentén kezdi az építkezést. Pedig, ha megvizsgáljuk, ez egy alapgondolat. Bár azt működésbe hozni rögtön nagy feladatok elé állítja az embert.
+
+Egy nyelv élővé válhatásának feltételei vannak - mint ahogy Teremtőnk sem csupán kődarabokba lehellte bele lelkünket. Eme soklépcsős folyamaton belül én jelenleg csak a szavak építésével, és annak szintjeivel foglalkozom. Bár például a nyelvtan is rendkívül különleges, érdekes, összetett rendszer, és a hangzóértelmességben felfedezett és rögzített elvekből tovább lehet vezetni, mégis különálló terület.
+
+
+
+< Indulás >
+
+Le kell fektetni a következőket:
+● beszélt nyelvet akarunk létrehozni
+● mivel kitalált/alkotott nyelvről van szó, ezért ezen állapotában nem beszélhetünk "természetes nyelv"-ről; azzá használata során alakul majd, például hangzóhasonulások különféle módjaival, egyszerűsítésekkel, a nyelvtan részleteinek kialakulásával, írásrendszer csatolásával
+● beszélt nyelvünk cselekvési alapelemei a hangzók, melyeknek bizonyos követelményeknek meg kell felelniük
+● hangzóink mind a kiejtés módjában, mind számosságukban meghatározottak és rögzítettek
+● minden ilyen alapelemhez a többitől megfelelő mértékben különböző jelentést, jelentésérzetet, jelentéskört társítunk
+● a képzés elvét a társított jelentés határozza meg
+● a képzés minél elemibb legyen, további elemekre ne legyen bontható (magyar hangzósításban ellenpélda: x (ksz))
+● minden hangzó önmagában is megálljon, tetszőlegesen lehessen őket keverni (magyar hangzósításban ellenpélda: q (ku, kv))
+
+
+
+< A fogalmi rendszer kialakítása >
+
+A hangzók rögzítését megelőzően a fogalomkészletet kell összeállítani, mert az jelenti az alapot.
+
+A fogalmak a minket emberként érdeklő, érintő, befolyásoló legfontosabb dolgok kell legyenek, és dióhéjban le kell fedjék az általunk érzékelt valóságot. Továbbá lehetőségünk van tagolni a fogalmi szerkezetet, hogy sokszínűbben, a mindennapi élethez, a világ dolgainak leírásához jobban használható rendszert kapjunk.
+
+Van néhány egyetemes fogalom, mely életünket, és az egész Világegyetemet alapvetően meghatározza. Ilyen az "erő" és a "viszony" is.
+
+Ezek például a végeselem számításnak, egy modern, elvont, fizikai szimulációs modellnek is meghatározó részei. Ott az erők a vizsgált elemek között lépnek fel, a viszonyok pedig az adott szimuláció idő- és térdimenziói. Nyelvi gondolkodásommal való párhuzamban a vizsgált elemek pedig a hangzók által célzott fogalmak.
+
+Nyelvi modellem erős alapjaként és ötletadójaként a mai magyar nyelv áll. Kétféle minőségű hangzónk van, amit ma mással- és magánhangzónak nevezünk. Én ezeket tapasztalt fogalmi működésük alapján átneveztem erő- és viszonyhangzóknak.
+Sokféle névvel illettem már őket, de e két minőség ilyen tisztán való megragadására több, mint 20 év után jutottam el.
+
+Egyértelműnek tűnik, de mégis érdemes kijelenteni:
+Az erő- és viszonyhangzók rendszere erő-viszony rendszert képez.
+
+Az erő-viszonyok az emberi társadalom, de az állatvilág, sőt az Élet minden közösségének rendezői és működtetői.
+
+
+
+< A hangzók kialakítása >
+
+A beszédhangoknál jellemzően kifelé engedjük a levegőt, ami hangszálainkat is megrezgetheti. (Bár a torkon keresztüli légáramlás a hangkeltéshez nem követelmény, például a csattogó hangoknál afrikai nyelvekben.)
+
+Megkülönböztethetünk két jelleget: az éneklést és a zajkeltést.
+
+Az éneklés, melyre itt gondolok, az elemi éneklés, mely pusztán az emberi hangszálaknak a kiáramló levegővel való rezgetése. A hangot a mellkastól fölfelé lévő üregek által meghatározott felhang-arányok színezik. Ezt a jellegzetességet domborítja ki más-más módon a mongoloknál a felhangéneklés, és a skandináv "kulning", mely utóbbival hangjeleket tudnak nagy távolságra küldeni egymásnak, vagy háziállataiknak.
+
+Az éneklő jellegű hangzókat énekhangzóknak nevezem. Ezek a mai magánhangzók, azaz viszonyhangzók. Az énekhangzók azok a beszédhangok, melyeknél a hangszálak rezegnek, és egyébként a levegő akadálytalanul áramlik kifelé.
+
+A zajkeltés a másik elemi hangzófajta. Ebbe a csoportba gyakorlatilag minden elemi képzéssel létrehozott hangzó beletartozik, amely nem énekhangzó. Ezeket zajhangzóknak nevezem. Ezek a mai mássalhangzók, azaz erőhangzók. Itt a levegő útját valamilyen módon és helyen gátolom (j, h, sz, ly), beszédszerveimmel különféle mozdulatokat csinálok (g, l, p), vagy a levegő segítségével mozgatom azokat (r).
+
+A magán- és mássalhangzó elnevezés nem magyar gondolkodás szerint, hanem német mintára született, és egyébként nem is fedi a valóságot. Elég egyetlen hangzót említeni, mint kivételt, hogy megtörje a szabályt (és nem, hogy erősítse). A "h" hangoztatásához semmilyen más hangzóra, magánhangzóra sincs szükség.
+
+Megjegyzem, ez a hangzó majdnem énekhangzó, kivéve, hogy a hangszálak nem rezegnek. Hogy mégis hallható legyen, a nyelv és a szájpadlás hátsó részét egymáshoz közel tartjuk, ezáltal zajol a levegő.
+
+Hasonló a "s", "sz", "f" hangzó is, csak ott a rést egyre előrébb hozzuk létre.
+
+Az ének- és zajhangzó a képzés módja, jellege szerinti elnevezés, és kivétel nélkül fedi a valóságot.
+
+A két hangzófajta elnevezései:
+● német mintára: mássalhangzó / magánhangzó
+● hangoztatás szerint: zajhangzó / énekhangzó
+● működés szerint: erőhangzó / viszonyhangzó
+
+
+
+< A nyelvi rendszer megtartó és öngyógyító ereje >
+
+A számosság is fontos. Nem lehet sem kevés fogalom, illetve hangzó, mert az nem elegendő; sem sok, mert az a gyakorlatban fölösleget szül, és lemorzsolódáshoz, így az eredetileg kitalált rendszer sérüléséhez vezet. Törekedni kell az egyszerűségre, mivel a viharos élet megnyirbálja a túlburjánzott rendszereket.
+
+Nyelvi modellemben, de a mai magyar nyelvben is a zajhangzók számossága messze elmarad a beszédszerveinkkel kelthető zajok számosságától.
+Ebből következően sem szerepel készletemben a "dz" és "dzs", pedig ezek egyszerűen képezhetők számunkra. A természetes nyelvi jelleg miatt jelennek meg a "d+z" és a "d+s" vagy "d+zs" összeolvadásaként. Bár vannak olyan hangzóink, melyek összeolvadással is létrejönnek, de önmagukban is léteznek. Jó példa a "cs", mely kétféleképpen is létrejöhet: "t+s", "c+s".
+
+A nyelv élete folyamán a hangzóhasonulások különböző módjaival, vagy hangzópár-kapcsolatok állandósulásával a rendszerben eddig nem létező jellegű beszédhangok alakulhatnak ki, melyek esetleg saját betűt, vagy jelölést is kaphatnak (dz, dzs), vagy épp hangzók tűnhetnek el (ly). Azonban fontos az eredeti, alapgondolat, többek között a hangzókészlet számosságának megőrzése. Ezt több dolog is segíti. Egy összetett, szabályos, észszerű rendszer sérülése esetén könnyen helyreállítható. Itt tulajdonképpen adat- és információmegőrzésről van szó. Modern korunkban jó példa erre az optikai adattárolók, logikailag összekapcsolt merevlemezek (RAID) adattárolásának hibajavító algoritmusai, de ilyen még a néhány tíz bájtból álló qr-kódban is létezik, hogy bármely részének bizonyos mértékű és jellegű sérülése esetén ki lehessen nyerni a benne tárolt adatot, s így lényegileg vissza tudjuk állítani eredeti állapotát.
+
+A magyar nyelvben is van ilyen algoritmus, mely a hangzóértelmes nyelvi rendszer előállításához való elemi szabályok halmaza. Ezen szabályok és következményeik által jönnek létre olyan összefüggések, melyek a mai magyar nyelv megtartó és öngyógyító erejét adják. Bár a megtartás magától működik, az öngyógyításhoz akaratlagos, tudatos, nyelvművelő tevékenység kell.
+
+A megtartó erő a nyelv korcsosulása, elváltozása, felhígulása, eredeti elemeinek kiveszése szempontjából fékező erőt jelent, de ezen folyamatokat megakadályozni nem tudja. Ezek nem csak háborúk, természeti csapások, más nyelvűekkel való kölcsönhatások, de bizony önmagunkban létezvén is az emberi önállóskodás, renyheség, ostobaság, vagy akár gonoszság következményei is lehetnek. Ezért van szükség a nyelvi öngyógyítás működtetésére.
+
+Sokféle megtartó erő van a magyar nyelvben.
+Nyelvünk belső összefüggéseinek zöme tudat alatt él, és/de a gyakorlatra kihatással van (ezért működik). A szóbokrok és az írás is megtartó erő.
+
+Az eredeti hangzókészlet emlékének megőrzéséhez hozzájárul számosságának matematikai különlegessége. Itt az oszthatóságra gondolok, mely léte és mértéke, vagy nemléte amúgy fontos az élet sok más területén is, például a csoportosíthatóság miatt, melynek gyakorlati jelentőssége van.
+
+Bár érdekes, hogy arra jutottam, az erőhangzók (mássalhangzók) száma 24, mely úgynevezett erősen összetett szám (a nála kisebb természetes számoknak csak kevesebb osztója van), miközben az erőhangzók osztályának épp, hogy nem jellemzője a csoportosíthatóság.
+
+Ellenben ez erősen sajátja a viszonyhangzóknak (magánhangzóknak), melyből 14 van. Azonban ez a szám önmagán kívül csak 2 osztóval rendelkezik: 2 és 7. A 7 prímszám, egyen és önmagán kívül nincs osztója. De mindjárt látjuk, hogy a viszonyok szerkezete a következő: 2×(1+2+2+2), amit így is felírhatunk: 2×(1+6) = 2+12, ahol a 2 tag egy különleges viszonypár lesz, a 12 pedig szintén erősen összetett szám.
+
+
+
+< Erő >
+
+A fogalmi rendszert felépítő elemi fogalmak egyike.
+Minden mozgás, folyamat okozója.
+Az erőt, mint hatást működése, jellege, okozata szerint különféle módokon fedezzük fel világunkban. Ragadjuk meg a megfelelően megválaszott számosság szerint úgy, hogy az általunk tapasztalt világot minél teljesebben lefedjük, ugyanakkor az egyes fogalmak a lehető legjobban különbözzenek egymástól!
+
+A megfelelően megválaszott számosság azt jelenti, hogy legyen: 1.) nem kicsi, 2.) nem nagy, 3.) erősen összetett szám. A fogalmak különbözőségi követelménye eredményezi a csoportosíthatatlanságukat.
+
+Az általam választott erők a következők, egyetlen, jelen nyelvünk szerinti legjellemzőbb szóval:
+
+kitörő, eltérítő, forgató, ürítő, akaró, megtartó, ösztönző, gyengítő, szűkítő, nehezítő, élesztő, elválasztó, birtokló, kényszerítő, nyújtó, semmítő, formáló, óvó, áthatoló, rögzítő, vezérlő, vonzó, sokasító, munkáló
+
+Ezekkel a világ jelenségeit nagyjából le lehet írni földi, emberi szemszögből. Ez az én gondolkodásom szerint nyelvünkből kiérzett gyűjtemény, így önkényes. Ilyet egyéni gondolkodástól függetlenebb módon a semmiből létrehozni külön megalapozandó feladat.
+
+A gyököknél később láthatjuk, hogy létezik az egyetemes erő fogalma, mely hangzóként nem testesül, pontosabban az erőhangzó hiányaként jelenik meg. Így összesen 25 fajta erőfogalomról beszélhetünk. Mellékesen 25 = 5^2, ahol az 5 prímszám.
+
+
+
+< Viszony >
+
+A másik elemi fogalom. Az erők kapcsolatáról szól.
+Mivel az erő megjelenési formája a mozgás, mely pedig számunkra térben és időben jellemezhető, ezért a viszonyításukat is ezekben kell elképzelni.
+
+A térbeli kiterjedések nem a lecsupaszított, matematikai értelemben használandók (mert az elvon minket a valóságtól), hanem különleges módon, mely jellemzi az életterünket.
+
+Először is, a viszonyításnak van egy kezdőpontja, ami egy középpont, ahol a viszonyított dolog (alap esetben erő) áll. Aztán van egy iránya, amit maga a viszonyítás határoz meg. Majd van egy végpontja, mely egy másik dolog (erő).
+
+Ebből a működésből következik alap gyökképletünk, mely a következő:
+erő-viszony-erő,
+vagy mai fogalmaink szerint:
+mássalhangzó-magánhangzó-mássalhangzó.
+
+Határozzuk meg a viszony-fajtákat a megfelelően megválaszott számosság szerint úgy, hogy minél sokrétűbben használjuk ki a lehetséges kiterjedésekben rejlő lehetőségeket! Ez egy igen összetett viszonyrendszert fog eredményezni. Az egyszerűség kedvéért most önmagamat képzelem a középpontba.
+
+Mik a térbeli kiterjedések a helyi világszeletünkben? Nem három egyenértékű kiterjedés, mint ahogy azt a matematikában/fizikában vesszük. A Föld felszínén élve, mely számunkra gyakorlatilag sík, három fajta viszonyulást állapítok meg:
+● a tőlem való távolság függvényében, egy egyenes mentén
+● a felszínen való eloszlás szerint, körkörösen, minden irányban
+● a felszín alatt és fölött (a Föld tömegvonzása a harmadik irányt kitünteti, megkülönbözteti)
+
+Ezután felhasználhatjuk az időt is. Mondhatom azt, hogy az előbb megállapított irányokat vehetem:
+● pillanatszerűen (időbeli kiterjedés nélkül)
+vagy
+● folyamatában (időbeli kiterjedéssel)
+
+Első viszonyként kiemelem a viszonyítások középpontját. Ez önmagában áll, saját magához viszonyít. A kiterjedések innen indulnak.
+Ezt közép-térnek nevezem.
+
+A középponttól való távolság viszonyai:
+● amit elérek, mellettem van, függésben vagyunk
+● amit nem érek el, távolabb van, egymástól függetlenek vagyunk
+Ezt táv-térnek nevezem.
+
+A középpont környékét leíró viszonyok:
+● körülöttem van
+● a látóhatárig (mindenütt) van
+Ezt kör-térnek nevezem.
+
+A kézzel és szemmel elérhető térből kifelé mutató irányban lévő viszonyok:
+● félúton van (kilóg, átlóg)
+● odaát van (nem elérhető, és nem is látható)
+Ezt mély-térnek nevezem.
+
+Az időbe való kiterjesztést röviden időítésnek nevezem. (Ellentétét nevezhetem időtlenítésnek.)
+
+Az időített terekben való viszonyokat tér-idő viszonyoknak nevezhetem: közép-tér-idő, táv-tér-idő, kör-tér-idő, mély-tér-idő. Az adott kiterjedést röviden ágnak is nevezhetem az úgynevezett "viszonytérképen", például a táv-ág kiterjedésben, a táv-ágban van a táv-tér és a táv-tér-idő.
+De ez részletkérdés.
+
+Az időítést úgy tartom érdemesnek elképzelni, hogy annak a folyamatát jelenti, ahogyan a jelölt viszony-állapotba eljutunk. Például, ha a táv-tér "független" viszonyát időítem, akkor az a táv-tér-időben a "függetlenné válás"-t jelenti.
+
+
+
+< Hangzósítás >
+
+Alkossunk hangzókat a fogalmakhoz!
+
+[kép: Erőhangzók és viszonyhangzók.jpg]
+
+
+< Erőhangzók >
+
+Rendszerem a következő erőhangzókat tartalmazza (sorrendjük a mai ábécé szerinti) :
+B C Cs D F G Gy H J K L Ly M N Ny P R S Sz T Ty V Z Zs
+
+A hangzók kidolgozásának leírása nélkül, röviden, így társítom őket az erő fogalmakhoz:
+
+B = kitörő, C = eltérítő, Cs = forgató, D = ürítő, F = akaró, G = megtartó, Gy = ösztönző, H = gyengítő, J = szűkítő, K = nehezítő, L = élesztő, Ly = elválasztó, M = birtokló, N = kényszerítő, Ny = nyújtó, P = semmítő, R = formáló, S = óvó, Sz = áthatoló, T = rögzítő, Ty = vezérlő, V = vonzó, Z = sokasító, Zs = munkáló
+
+
+
+< Viszonyhangzók >
+
+Rendszerem a következő viszonyhangzókat tartalmazza (sorrendjük a viszonyok szerkezete szerint lehetséges sorrendek közül egy bizonyos sorrend) :
+I - E A - Ö O - Ü U / Í - É Á - Ő Ó - Ű Ú
+
+A viszonyokhoz talált hangzókat sorolom röviden, a felhangarányok és képzési módok leírása nélkül:
+
+[közép-tér]: maga: I
+[táv-tér]: elérhető: E / nem elérhető: A
+[kör-tér]: körülötte: Ö / mindenütt: O
+[mély-tér]: félúton: Ü / odaát: U
+
+[közép-tér-idő]: azonosul: Í
+[táv-tér-idő]: elérhetővé válik: É / elérhetetlenné válik: Á
+[kör-tér-idő]: körégyűlik: Ő / mindenüvé terjed: Ó
+[mély-tér-idő]: kiszüremlik: Ű / eltűnik: Ú
+
+
+
+< A fogalmak hangzóértelmes kifejezései >
+
+Szavak alkotásához a hangzókat egymás után kell tenni. Segítségünkre van, ha a hangzók jelentését kimondjuk. Ehhez olyan szavakat/kifejezéseket kell használnunk, melyeket láncra fűzhetünk, és beleillenek a hangzók jelentéskörébe. Ezek nem feltétlenül egyeznek meg azon szavakkal/kifejezésekkel, melyeket a hangzókhoz eddig felsoroltam.
+
+
+
+< Gyökök és gyökképletek >
+
+Jelölje E az erőhangzót, V a viszonyhangzót!
+
+A kétfajta hangzó működése miatt a nyelvi modellem gyökeinek alapszerkezete a már említett:
+erőhangzó + viszonyhangzó + erőhangzó
+Ennek gyökképlete: EVE
+
+Azonban nem csak ilyen alakú gyökök léteznek, hanem ennél rövidebbek is, ahol az első, vagy-is utolsó erőhangzó hiányzik. A teljes alakú gyököket teljesgyöknek nevezem. A nem teljes alakúakat nevezhetem csonkagyöknek. Ebből három van:
+
+● elöl nyílt gyök: viszonyhangzó + erőhangzó (VE) - pl.: ül, ég, íz
+● hátul nyílt gyök: erőhangzó + viszonyhangzó (EV) - pl.: ró, fű, hő
+● csupaszgyök: viszonyhangzó (V) - pl.: ő
+
+
+
+< A gyökök hangzóértelmes kifejezései >
+
+Egy szó hangzóinak hangzóértelmes kifejezéseit végigmondva a szó hangzóértelmes kifejezését kapjuk meg.
+
+Például: KAR -> [K: nehezítő erő] [A: -től független] [R: formáló erő], azaz:
+nehezítő erőtől független formáló erő
+
+A csonkagyökökben a hiányzó erőhangzó a már említett egyetemes erő, melynek hangzóértelmes kifejezése a "bármi".
+
+Például: TÓ -> [T: rögzítő erő] [Ó: -n elterjedő] [_: bármi], azaz:
+rögzítő erőn elterjedő bármi
+
+
+
+< A megnevezni kívánt dolog fogalmának megragadása >
+
+A hangzóértelmes kifejezések egy külön világot alkotnak, mely elvont érzetekkel van tele. Ezen világ, és a valóság között kell képzet-/érzettársítás segítségével kapcsolatot teremteni.
+
+A hangzóértelmes tér, a fogalomtér és az anyagi valóság között nem teremthető kölcsönösen egyértelmű kapcsolat. Egy szónak több hangzóértelmes képzettársítással megállapított jelentése is lehet, és egy jelentést több hangzóértelmes kifejezéssel is megközelíthetünk.
+
+Modellemben a lehetséges gyökök száma 8750, ami messze elmarad a lehetséges fogalmak számától.
+
+A 8750 így adódik:
+
+erőhangzók (E): 24 db
+viszonyhangzók (V): 14 db
+
+teljesgyökök (EVE): 24×14×24 db
+elöl nyílt gyökök (VE): 14×24 db
+hátul nyílt gyökök (EV): 24×14 db
+csupaszgyökök (V): 14 db
+az összes gyök: 14 + 14×24×2 + 24×14×24 = 8750
+
+Ebben benne van a "lyíly", "csúty", és sok egyéb, mai nyelvünkben nem létező gyök is.
+
+
+
+< Szófejtési példák >
+
+TÓ: rögzítő erőn elterjedő bármi
+A "rögzítő erő" itt a gát, ami az áramlást megállítja, az "elterjedés" pedig a víznek a felgyűlése, szétterülése. A "bármi" az erő semlegessége, mert egy áramláson ejtett torlaszon bármi áramló felgyűlik. Ha úgy tetszik, ez a duzzasztógátnak az ősképe. Legyen szó egy hegység vízmosta völgyeinek torlaszként működő beomlásáról, vízgazdálkodás töltéseiről, malomtavakról. A meggyűlt, látható áramlás nélküli víz keletkezésének módja van ezen szó hangzóértelmében. S ha úgy tetszik, ilyen formán a gát nélküli, nagyobb mélyedésekben meggyűlt vizeket csak jelentésáttevéssel nevezzük tónak.
+
+SzÁZ: áthatoló erőt elhagyó sokasító erő
+vagy: hatékonyságot elhagyó sokaság
+Katonai jellegű szó (sok ilyen van). Az a számosság, melyet külső eszközök nélkül egyben tartani és irányítani, hatékony egységként működtetni már nem lehet.
+
+ZÁSz: sokasító erőt elhagyó áthatoló erő
+vagy: sokaság( jellege)t elhagyó hatékonyság
+Az előző, a "száz" szóhoz kapcsolódik, annak ellentéte. Eme gyök önmagában nem, de "zászló" szavunkban él. Eredetileg "zászoló" lehet, s egy olyan tárgy neve, mely a "száz"-at "zász"-olja. A "száz" minőséget összefogja, s ismét irányíthatóvá, hatékonnyá teszi.
+
+DÉLy: ürítő erőhöz társuló kettéválasztó erő
+vagy: üresség segítője kettéválasztás
+A napon, mint időegységen belül az egyetlen meghatározható, állandó viszonyítási pont, mely a napot kettéválasztja. Ugyanis egy botot bárhol leszúrván, az árnyék végének haladását rögzítvén ki tudjuk szúrni a délyt (ma: délt/delet). De a nap kelte és nyugta mindig vándorol térben és időben is. Az éjfél, a mai napi időszámításunk kezdete pedig pont a természetből adódónak a szöges ellentéte: az a pillanat, amikor a Nap a legrejtettebb. És nem menti ezt a gondolkodási módot az sem, ha a csillagok látszanak, mert az év során azok is vándorolnak.
+
+A "dély" szóváltozatot az angol "day" szó láttatta meg velem, miután a magyar "dél" szó hangzóértelme sokáig nem vezetett el engem a megoldáshoz, aztán az angolé pedig rögtön. Itt jegyzem meg: a magyar és angol alapszavak között sokkal nagyobb arányú a közvetlen vagy kevés áttétes egyezés, mint a magyar és finn között. De ezt sem a magyar, sem az angol/amerikai/ausztrál, sem a finn egyetemeken nem tanítják. De máshol sem.
+
+Egy ide tartozó példa: a magyar "nap" és az angol "nap" "szunyókálás, szundikálás, szendergés" jelentése közt remélem, érezzük az egyezést: az angolnak a "nap" a nappali alvás (úgymond szieszta).
+
+És egy vicces dolog: az angol "sunday" (vasárnap) szó szerinti fordításban: "napnap"
+
+Node most nem az angolról van szó. Bár arról is lehetne írni bőven - természetesen a magyar nyelvhez kapcsolódóan.
+
+
+
+< Mi a magyar szó? >
+
+Számomra az, ami megfelel eme dolgozatban vázolt szabályoknak.
+
+Tegyük föl, hogy van egy szó, melyről teljes bizonyossággal megállapítható, hogy nem magyar eredetű! Sőt, hogy ez a szó még csak nem is szerepel nyelvünkben. Azonban, ha az a szó egy bizonyos módon rávetíthető a modellem hangzókészletére, és hangzóértelme szoros összefüggést mutat jelentésével, akkor azt én abban a formában teljes értékű magyar szónak tekintem.
+
+Ma még nem tudunk minden fontos, ma használatos fogalomra magyar szót mondani. Én úgy tartom, inkább mondjuk idegenül, mint sehogy. A korok szellemi áramlataiban részt kell vennünk, ha a világgal lépést akarunk tartani. Ez azért fontos, mert szerencsénkre a világ elsősorban szellem, és az vezérli az anyagot. Azért szerencsénkre, mert szellemi téren jók vagyunk. És még jobbá válunk, mert nyelvünk tekintetében öntudatra ébredünk, és újraélesztjük alkotó erejét. Így nem aggódok az esetlegesen használt idegen szavak miatt, mert tudom, előbb-utóbb kiszorulnak nyelvünkből.
+
+
+
+< Zárszó >
+
+A mag önmagából nő ki. Ezért lehet a magyart a magyarral magyarázni.
+
+Ez filozófiai, matematikai, metafizikai jellegű nyelvi építmény. Alapja a puszta gondolkodás és létfigyelés. Önmagában meg kell állnia. Akadémiák, szótárak, írásemlékek, leégett könyvtárak, politikai és hatalmi áramlatok, zsarolások, meggyilkolt vezetők ellenében is. Foglalkozzunk vele, amíg a földünkön béke van, mert mikor már mindenki elveszett szeretteit siratja, ismét több nemzedéknyi idő esik ki!
+
+A hangzóértelmes nyelvépítés azért marad meg jó eséllyel, mert az alapgondolat egy darab A4-es lapon átadható, gyakorlatilag bármilyen mennyiségben sokszorosítható, és csak néhány igazán észszerűen vihető módja van, tehát a gonoszságból vagy ostobaságból bele rejtett hibák előbb-utóbb kibuknak, mert a gyakorlat, használat azokat felszínre hozza.
+
+Modellem felépítéséhez nem a fent vázolt módon, előremutató fejlesztéssel, hanem a mai nyelvünkből való visszafejtéssel és szerkezeti elemzéssel jutottam el. A használathoz azonban az ellentétes irányú folyamat kell, ahogy itt leírtam.
+
+Az egész nyelvi elmélkedésem célja egy olyan rendszer kidolgozása, mely segítségével magyar szavak nem csak magyarázhatók, de alkothatók is, melyekkel pedig idegen szavaink kiválthatók, sőt, egyéb elméleti építményeink fogalmai is könnyebben megragadhatók, ezáltal erősítve és gyorsítva a szellemi fejlődést, és növelve megmaradási, sőt felemelkedési esélyeinket.
+
+Igaz, hogy modellem formálódik, csiszolódik, s vannak részei, melyekről tudom, hogy át- és továbbgondolandók. Sőt, egyes alapvető gondolati elemei is megváltozhatnak. De attól még erőst érdemesnek tartom mesélni róla.
+
+Eme dolgozatban felvázoltam a hangzóértelmes nyelvépítésnek egy általam vélt, vihető módját. Az érthető terjedelmi korlátok miatt csak az alapokra volt lehetőség, de reményem szerint ez is elég ahhoz, hogy beinduljon a képzelő- és alkotóerőnk, és megragadjuk nyelvünk gyeplőjét, melyet a háborúságok és betelepítések életviharai kivertek kezünkből.
+
+
+
+< Világhálós hivatkozások >
+
+● Honlapom: https://bitmiller.hu/
+● Villámlevél címem: gp.bitmiller@gmail.com
+● Hangzóértelmes kifejezés készítő: https://bitmiller.hu/a/szomuhely
+● Magyar Szóműhely: https://www.facebook.com/groups/magyarszomuhely
+
